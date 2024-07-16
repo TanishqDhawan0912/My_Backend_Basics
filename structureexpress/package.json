@@ -1,11 +1,15 @@
 {
-  "name": "my_backend_basics",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "name": "structureexpress",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
+  "devDependencies": {},
   "scripts": {
     "start": "node index.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "description": ""
 }
